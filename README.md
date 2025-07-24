@@ -37,26 +37,25 @@ Recyclein adalah aplikasi mobile yang bertujuan untuk membantu masyarakat dalam 
   <img src="Assets/Riwayat.png" width="150" style="margin: 10px;" />
   <img src="Assets/Jenis Sampah Lanjutan.png" width="150" style="margin: 10px;" />
 </div>
-<br>
 
 ## Demo / Prototype
 Klik Disini : [Figma♻️Recyclein](https://www.figma.com/design/5BaWlsKGdJLzqud52EnTX1/tecnoh?node-id=34-109&t=Dy9LvGwwZLzLvovo-0)
-<br>
+<br></br>
 
 ## Pitch Deck
 Lihat file pitch deck kami di sini:  
 ➡️ [Download PDF Pitch Deck](Assets/picth%20deck.pdf)
-<br>
+<br></br>
 
 ## Video Demo Aplikasi
 Lihat Video Demo Kami di Youtube:  
 ▶️[🔴Youtube](https://youtu.be/S7qUUE0MH8Q)
-<br>
+<br></br>
 
 ## Landing Page
 Lihat Disini:  
 ➡️ [Landing Page](https://tinyurl.com/recyclein-id)
-<br>
+<br></br>
 
 ## License
 ---
