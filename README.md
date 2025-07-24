@@ -60,8 +60,7 @@ Lihat Disini:
 
 ## License
 ---
-This project is licensed under the MIT License.
-<br>
+This project is licensed under the MIT License.  
 
----
+
 *"Terima kasih telah peduli terhadap lingkungan bersama Recyclein 🌱"*
