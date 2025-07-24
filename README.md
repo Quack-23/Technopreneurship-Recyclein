@@ -25,9 +25,9 @@ Recyclein adalah aplikasi mobile yang bertujuan untuk membantu masyarakat dalam 
 
 | Nama     | Peran    | Tanggung Jawab                                  |
 |----------|----------|--------------------------------------------------|
-| Amanda   | Hipster  | Desain UI/UX, brand, dan tampilan aplikasi       |
-| Budi     | Hacker   | Pengembangan fitur aplikasi dan database         |
-| Citra    | Hustler  | Riset pasar, validasi pengguna, dan kemitraan    |
+| Alfian   | Hipster  | Desain UI/UX, brand, dan tampilan aplikasi       |
+| Bagas    | Hacker   | Pengembangan fitur aplikasi dan database         |
+| Hafidz   | Hustler  | Riset pasar, validasi pengguna, dan kemitraan    |
 <br>
 
 ## Preview Aplikasi
