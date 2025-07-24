@@ -58,7 +58,6 @@ Lihat Disini:
 <br></br>
 
 ## License
----
 This project is licensed under the MIT License.  
 
 <br></br>
