@@ -21,7 +21,7 @@ Recyclein adalah aplikasi mobile yang bertujuan untuk membantu masyarakat dalam 
 - gitHub
 <br>
 
-## 👥 Tim Pengembang
+## Tim Pengembang
 
 | Nama     | Peran    | Tanggung Jawab                                  |
 |----------|----------|--------------------------------------------------|
