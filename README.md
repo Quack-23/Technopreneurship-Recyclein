@@ -63,4 +63,5 @@ Lihat Disini:
 This project is licensed under the MIT License.
 <br>
 
+---
 *"Terima kasih telah peduli terhadap lingkungan bersama Recyclein 🌱"*
