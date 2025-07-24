@@ -55,7 +55,7 @@ Lihat Video Demo Kami di Youtube:
 
 ## Landing Page
 Lihat Disini:  
-➡️ [Landing Page]([https://youtu.be/S7qUUE0MH8Q](https://tinyurl.com/recyclein-id))
+➡️ [Landing Page](https://tinyurl.com/recyclein-id)
 <br>
 
 ## License
